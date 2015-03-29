@@ -2,7 +2,7 @@ Summary:	GNOME desktop library (from GNOME 2)
 Summary(pl.UTF-8):	Biblioteka GNOME desktop (z GNOME 2)
 Name:		gnome-desktop2
 Version:	2.32.1
-Release:	1
+Release:	2
 License:	LGPL v2+
 Group:		X11/Libraries
 Source0:	http://ftp.gnome.org/pub/GNOME/sources/gnome-desktop/2.32/gnome-desktop-%{version}.tar.bz2
